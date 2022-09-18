@@ -49,8 +49,8 @@ For more detail you can check the [augmentaiton file](https://github.com/ynsgktu
 ## Contributors ✨
 Thanks go to these people.
 
-<a href="https://github.com/kurtvelican/CoinDetectionProject/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=kurtvelican/CoinDetectionProject" />
+<a href="https://github.com/ynsgkturk/CoinDetectionProject/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ynsgkturk/CoinDetectionProject" />
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
