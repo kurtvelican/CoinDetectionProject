@@ -45,3 +45,12 @@ We used few data augmentation methods to enlarge our dataset.
 * ISO Noise
 
 For more detail you can check the [augmentaiton file](https://github.com/ynsgkturk/CoinDetectionProject/blob/main/data_augmentation.py) and [Bounding Box Augmentation documentation](https://albumentations.ai/docs/getting_started/bounding_boxes_augmentation/).
+
+## Contributors ✨
+Thanks go to these people.
+
+<a href="https://github.com/kurtvelican/CoinDetectionProject/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=kurtvelican/CoinDetectionProject" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
